@@ -1,0 +1,8 @@
+{"1.2.0",
+[{<<"epgsql">>,{pkg,<<"epgsql">>,<<"4.0.0">>},0}]}.
+[
+{pkg_hash,[
+ {<<"epgsql">>, <<"50C617ADED59D4343156B945F42229DC1F7F07878AB4F9C759D41D1A5975B467">>}]},
+{pkg_hash_ext,[
+ {<<"epgsql">>, <<"22BF9D808D2673DFFAFE649183DB2FAAB8792A08712F9EB42257A3CCC4253BC1">>}]}
+].
